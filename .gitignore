@@ -15,4 +15,4 @@ System and temp files:
 .DS_Store *.swp *.swo *.bak *.tmp *.cache
 
 Editor files
-.vscode/ .idea/ *.code-workspace
+.vscode/ .idea/ *.code-workspace*.lock
