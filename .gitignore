@@ -1,18 +1,4 @@
-Sensitive (Solana keypairs, private keys, etc.)
 *wallet.json
-*.key 
-*keypair.json
-*.env
-
-Deps and compilation files
-node_modules/
-build/
-target/
-dist/
-*.log
-
-System and temp files:
-.DS_Store *.swp *.swo *.bak *.tmp *.cache
-
-Editor files
-.vscode/ .idea/ *.code-workspace*.lock
+node_modules
+target
+.DS_Store
