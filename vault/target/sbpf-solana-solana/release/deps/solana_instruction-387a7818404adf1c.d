@@ -1,0 +1,10 @@
+/home/lalo/Q3_2025_Builder_EduardoRamirez/vault/target/sbpf-solana-solana/release/deps/libsolana_instruction-387a7818404adf1c.rmeta: /home/lalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.0/src/lib.rs /home/lalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.0/src/account_meta.rs /home/lalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.0/src/error.rs /home/lalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.0/src/syscalls.rs
+
+/home/lalo/Q3_2025_Builder_EduardoRamirez/vault/target/sbpf-solana-solana/release/deps/libsolana_instruction-387a7818404adf1c.rlib: /home/lalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.0/src/lib.rs /home/lalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.0/src/account_meta.rs /home/lalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.0/src/error.rs /home/lalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.0/src/syscalls.rs
+
+/home/lalo/Q3_2025_Builder_EduardoRamirez/vault/target/sbpf-solana-solana/release/deps/solana_instruction-387a7818404adf1c.d: /home/lalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.0/src/lib.rs /home/lalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.0/src/account_meta.rs /home/lalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.0/src/error.rs /home/lalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.0/src/syscalls.rs
+
+/home/lalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.0/src/lib.rs:
+/home/lalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.0/src/account_meta.rs:
+/home/lalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.0/src/error.rs:
+/home/lalo/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-instruction-2.3.0/src/syscalls.rs:
